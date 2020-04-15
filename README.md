@@ -41,6 +41,6 @@ Example usage shown in 	[examples.ipynb](./examples/examples.ipynb)
    - Interface with [ASE](https://wiki.fysik.dtu.dk/ase/) structures
    - Create finite structures and slabs for Topological calculations within the code *(requires pymatgen rightnow)*
    - Berry phase calculation (high on priority)
-   - Greens function DOS
+   - ~~Greens function DOS~~ (added normal DOS)
    - Convert all operations to sympy, so that one can ouput analytical Tightbinding matrix elements for ease of access 
 
